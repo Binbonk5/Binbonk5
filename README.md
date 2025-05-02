@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 👋 Hi there! I'm Hoang Duc Dung, currently an undergraduate student at the **University of Information Technology**. Currently pursuing the **Computer Science Honor Program** at my university.
+- 👋 Hi there! I'm Hoang Duc Dung, currently an undergraduate student at the **University of Information Technology**. Now pursuing the **Computer Science Honor Program** at my university.
 - 💻 Before university, I studied at **Le Quy Don High School for the Gifted – Khanh Hoa**.
 - 🚀 My current academic focus is on **Machine Learning** and **Computer Vision**, where I explore intelligent systems and visual perception techniques.
 - 📊 I also often participate in competitions on the Codeforces platform
