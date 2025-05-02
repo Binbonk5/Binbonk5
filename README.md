@@ -45,9 +45,12 @@
 
 ## 🔥 Contribution Streak
 
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Binbonk5&theme=radical"/>
+  <img src="https://streak-stats.demolab.com/?user=Binbonk5&theme=radical"/>
 </p>
+
+
 
 ---
 
