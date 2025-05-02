@@ -67,4 +67,11 @@
 - 💼 LinkedIn: [your_linkedin](https://www.linkedin.com/)
 - 🌐 Portfolio (nếu có): https://your-portfolio.com
 - 📊 Codeforce: https://codeforces.com/profile/Dungcodeagain
+
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/4UbiPlvq7daiHBO5QP/giphy.gif" alt="Sunrise Animation" width="500"/>
+</p>
+
+---
  
