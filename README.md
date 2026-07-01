@@ -69,7 +69,7 @@
 -->
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/4UbiPlvq7daiHBO5QP/giphy.gif" alt="Sunrise Animation" width="300"/>
+  <img src="https://media.giphy.com/media/4UbiPlvq7daiHBO5QP/giphy.gif" alt="Sunrise Animation" width="200"/>
 </p>
 
 ---
