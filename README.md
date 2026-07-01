@@ -33,7 +33,7 @@
 </p>
 
 ---
-
+<!--
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -42,6 +42,7 @@
 </div>
 
 ---
+-->
 <!--
 ## 🏆 GitHub Trophy
 
