@@ -1,26 +1,24 @@
-<!-- Banner đẹp -->
+<!-- Banner đẹp 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Hoang+Duc+Dung+aka+Binbonk5!;C%2B%2B+%7C+AI+%7C+Algorithm+Enthusiast;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
----
+-->
 
-## 👨‍💻 About Me
-- 👋 Hi there! I'm Hoang Duc Dung, currently an undergraduate student at the **University of Information Technology**. Now pursuing the **Computer Science Honor Program** at my university.
-- 💻 Before university, I studied at **Le Quy Don High School for the Gifted – Khanh Hoa**.
-- 🚀 My current academic focus is on **Machine Learning** and **Computer Vision**, where I explore intelligent systems and visual perception techniques.
-- 📊 I also often participate in competitions on the Codeforces platform
-- ⚽ Outside of programming, I enjoy staying active with sports like football and volleyball. Occasionally, you'll find me reading books, playing games, or exploring new places — I'm passionate about traveling and discovering different cultures.
+## About Me
+- **B.S. in Computer Science (Honors Program)** from the **University of Information Technology**.
+- Studied at **Le Quy Don High School for the Gifted (Khanh Hoa)** with an **Information Technology major**. 
+- Passionate about **AI, ML, CV, NLP, AI Agents, and NPU architecture.**
 
 ---
-## 🏆 Achievements
-- 🏆 Champion – Wecode Challenge at the University of Information Technology (UIT)
-- 🥈 Second Prize – National Excellent Student Selection Exam in Informatics
-- 🥉 Third Prize – ICPC Vietnam Southern Regional Contest 2023
-- 🎖️ Honorable Mention – ICPC Vietnam National Contest 2024
+## Achievements
+- **Published:** Unlocking Arbitrary-Length Querying for Video Retrieval via Advanced Vision-Language Models and Hybrid Temporal Search | Co-author | SOICT 2025 Conference 
+- **Champion** – Wecode Challenge at the University of Information Technology (UIT)
+- **Second Prize** – National Excellent Student Selection Exam in Informatics
+- **Third Prize** – ICPC Vietnam Southern Regional Contest 2023
+- **Honorable Mention** – ICPC Vietnam National Contest 2024
 
----
-
+<!--
 ## 🔧 Skills
 
 ### Languages & Tools
@@ -33,6 +31,7 @@
 </p>
 
 ---
+-->
 <!--
 ## 📈 GitHub Stats
 
@@ -61,14 +60,13 @@
 '''
 -->
 
----
-
+<!--
 ## 🌐 Connect with me
 - 📧 Email: 23520328@gm.uit.edu.vn
 - 💼 LinkedIn: [your_linkedin](https://www.linkedin.com/)
 - 🌐 Portfolio (nếu có): https://your-portfolio.com
 - 📊 Codeforce: https://codeforces.com/profile/Dungcodeagain
-
+-->
 ---
 <p align="center">
   <img src="https://media.giphy.com/media/4UbiPlvq7daiHBO5QP/giphy.gif" alt="Sunrise Animation" width="300"/>
